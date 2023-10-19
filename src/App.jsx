@@ -21,6 +21,7 @@ function App() {
           order2="order-1"
           margin="right-[-140px] w-[800px] h-[800px]"
           imgName="illustration-editor-desktop.svg"
+          imgMobile='illustration-editor-mobile.svg'
         />
 
         <Section2 />
@@ -37,6 +38,7 @@ function App() {
           order2="order-2"
           margin="left-[-440px] w-full h-[700px]  "
           imgName="illustration-laptop-desktop.svg"
+          imgMobile='illustration-laptop-mobile.svg'
         />
 
         <Footer />

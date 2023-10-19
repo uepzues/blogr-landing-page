@@ -17,6 +17,7 @@ export default {
     screens: {
       scrn900: { max: "900px" },
       scrn400: { max: "400px" },
+      scrn600: { max: "600px" },
     },
   },
   plugins: [],
