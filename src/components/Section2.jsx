@@ -6,7 +6,7 @@ export default function Section2() {
           <div className="img scrn900:relative">
             <img
             className="ms-[-40px] scrn900:absolute scrn900:ms-0 scrn900:w-[60%] scrn900:left-[50%] scrn900:translate-x-[-50%] scrn900:top-[-13rem] scrn600:top-[-5rem] scrn600:w-[300px]"
-              src="./src/images/illustration-phones.svg"
+              src="../images/illustration-phones.svg"
               alt="phone images"
             />
           </div>

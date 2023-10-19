@@ -9,7 +9,7 @@ export function Footer() {
         "
         >
           <div>
-            <img src="../src/images/logo.svg" alt="logo" />
+            <img src="../images/logo.svg" alt="logo" />
           </div>
           <FootMenu
             head="Product"

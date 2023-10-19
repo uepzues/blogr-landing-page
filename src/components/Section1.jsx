@@ -56,7 +56,7 @@ function Section1({
         >
           <img
             className={`absolute  scrn900:static scrn900:m-auto ${margin} scrn900:h-[50%]`}
-            src={`../src/images/${screenWidth > 900 ? imgName : imgMobile}`}
+            src={`../images/${screenWidth > 900 ? imgName : imgMobile}`}
             alt="editor image"
           />
         </div>

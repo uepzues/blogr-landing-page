@@ -25,10 +25,10 @@ function NavBar() {
       <nav className={`w-screen ${nav ? "visible" : "hidden"}`}>
         <div className="navMobile flex justify-between items-center mx-[20px] mt-[4rem]">
           <div>
-            <img src="../src/images/logo.svg" alt="logo image" />
+            <img src="../images/logo.svg" alt="logo image" />
           </div>
           <div className="cursor-pointer">
-            <img src="../src/images/icon-hamburger.svg" alt="menu" />
+            <img src="../images/icon-hamburger.svg" alt="menu" />
           </div>
         </div>
 
@@ -39,7 +39,7 @@ function NavBar() {
                 Product
                 <img
                   className="ms-4"
-                  src="../src/images/icon-arrow-dark.svg"
+                  src="../images/icon-arrow-dark.svg"
                   alt="arrow"
                 />
               </div>
@@ -49,7 +49,7 @@ function NavBar() {
                 Company
                 <img
                   className="ms-4"
-                  src="../src/images/icon-arrow-dark.svg"
+                  src="../images/icon-arrow-dark.svg"
                   alt="arrow"
                 />
               </div>
@@ -59,7 +59,7 @@ function NavBar() {
                 Connect
                 <img
                   className="ms-4"
-                  src="../src/images/icon-arrow-dark.svg"
+                  src="../images/icon-arrow-dark.svg"
                   alt="arrow"
                 />
               </div>
@@ -75,7 +75,7 @@ function NavBar() {
         <div className="flex basis-[10%] justify-start items-center">
           <img
             className="flex basis-[40%] justify-start"
-            src="../src/images/logo.svg"
+            src="../images/logo.svg"
             alt="logo"
           />
         </div>
@@ -88,7 +88,7 @@ function NavBar() {
               Product
               <img
                 className="ms-4"
-                src="../src/images/icon-arrow-light.svg"
+                src="../images/icon-arrow-light.svg"
                 alt="arrow"
               />
             </div>
@@ -116,7 +116,7 @@ function NavBar() {
               Company
               <img
                 className=" ms-4"
-                src="../src/images/icon-arrow-light.svg"
+                src="../images/icon-arrow-light.svg"
                 alt="arrow"
               />
             </div>
@@ -136,7 +136,7 @@ function NavBar() {
               Connect
               <img
                 className="ms-4"
-                src="../src/images/icon-arrow-light.svg"
+                src="../images/icon-arrow-light.svg"
                 alt="arrow"
               />
             </div>

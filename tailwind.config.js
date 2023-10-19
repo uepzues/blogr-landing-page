@@ -9,9 +9,9 @@ export default {
       },
       backgroundImage: {
         "hero-bgnd":
-          "url('../src/images/bg-pattern-intro-desktop.svg'), linear-gradient(90deg, hsl(13, 100%, 72%), hsl(353, 100%, 62%))",
+          "url('../images/bg-pattern-intro-desktop.svg'), linear-gradient(90deg, hsl(13, 100%, 72%), hsl(353, 100%, 62%))",
         "section-bgnd":
-          "url('../src/images/bg-pattern-circles.svg'), linear-gradient(90deg, hsl(237, 17%, 21%), hsl(237, 23%, 32%))",
+          "url('../images/bg-pattern-circles.svg'), linear-gradient(90deg, hsl(237, 17%, 21%), hsl(237, 23%, 32%))",
       },
     },
     screens: {
