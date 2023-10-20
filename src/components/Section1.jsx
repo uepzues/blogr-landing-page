@@ -31,7 +31,7 @@ function Section1({
 
   return (
     <>
-      <h3 className="text-[3.4rem] color-black font-bold  mt-[14rem] z-10 scrn900:mt-[5rem] ">
+      <h3 className="text-[3.4rem] color-black font-bold  mt-[14rem] z-10 scrn900:mt-[5rem] text-center">
         {h3}
       </h3>
       <div className="section1 w-full max-w-[1000px]  mt-[-120px] h-full grid grid-cols-2 scrn900:flex scrn900:flex-col scrn900:mt-[5rem] scrn900:text-center content- bg-white scrn900:mb-[15rem]">
