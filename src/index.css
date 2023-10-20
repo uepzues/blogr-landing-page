@@ -8,6 +8,8 @@
 @layer base{
     html{
         font-size: 10px;
+        color: hsl(207, 13%, 34%);
+        /* color: #1f3f5b; */
     }
     #root{
         display: flex;

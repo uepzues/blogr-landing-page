@@ -19,7 +19,7 @@ function App() {
           para2="Flexible content management enables users to easily move through posts. Increase the usability of your blog by adding customized
           categories, sections, format, or flow. With this functionality, you’re in full control."
           order2="order-1"
-          margin="right-[-140px] w-[800px] h-[800px]"
+          margin="right-[210px]  h-[880px]"
           imgName="illustration-editor-desktop.svg"
           imgMobile='illustration-editor-mobile.svg'
         />
@@ -36,7 +36,7 @@ function App() {
           para2="Batteries included. We built a simple and straightforward CLI tool that makes customization and deployment a breeze, but
           capable of producing even the most complicated sites."
           order2="order-2"
-          margin="left-[-440px] w-full h-[700px]  "
+          margin="left-[-42rem] h-[780px]  "
           imgName="illustration-laptop-desktop.svg"
           imgMobile='illustration-laptop-mobile.svg'
         />

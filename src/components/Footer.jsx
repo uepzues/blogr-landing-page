@@ -2,13 +2,13 @@ import FootMenu from "./FootMenu";
 export function Footer() {
   return (
     <>
-      <footer className="w-full h-full bg-[#25252d] rounded-tr-[10rem] text-[#c8c8cb]">
+      <footer className="w-full h-full bg-[#25252d] rounded-tr-[10rem] text-[#c8c8cb] mt-[-21rem] scrn900:mt-[-5rem] ">
         <div
-          className="flex justify-between max-w-[100rem] items-start m-auto px-10 mt-[6.5rem] shrink scrn900:flex-col scrn900:items-center
-          mb-[10rem]
+          className="flex justify-between max-w-[115rem] items-start ml-[15rem] mr-[20rem] scrn900:flex-col scrn900:items-center
+          mt-[7rem] mb-[9rem] scrn900:mr-[0] scrn900:mx-auto 
         "
         >
-          <div>
+          <div className="h-full w-[10rem]">
             <img src="../images/logo.svg" alt="logo" />
           </div>
           <FootMenu
